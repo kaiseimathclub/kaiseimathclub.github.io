@@ -47,7 +47,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   name = "開成学園数学研究部"
   website = "yourwebsite.com"
-  email = "youremail@domain.com"
+  email = "kaiseimathclub@gmail.com"
   twitter = "Kaisei_Suken"
 
 mainSections = ["post"]
@@ -94,8 +94,8 @@ mainSections = ["post"]
 
 [[menu.main]]
 	parent = "fest"
-	name = "セコリス"
-	url = "fest/sekoris/sekoris"
+	name = "工作展示"
+	url = "fest/crafts/crafts"
 	weight = 4
 
 [[menu.main]]
