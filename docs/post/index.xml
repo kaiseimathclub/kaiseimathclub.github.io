@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 開成学園数学研究部</title>
+    <link>https://kaiseimathclub.github.io/post/</link>
+    <description>Recent content in Posts on 開成学園数学研究部</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <managingEditor>youremail@domain.com</managingEditor>
+    <webMaster>youremail@domain.com</webMaster>
+    <lastBuildDate>Sat, 19 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiseimathclub.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>144th 開成祭</title>
+      <link>https://kaiseimathclub.github.io/post/fest-144/</link>
+      <pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com</author>
+      <guid>https://kaiseimathclub.github.io/post/fest-144/</guid>
+      <description>2015/08/28 18:00 Twitter、始めました！！！ 当アカウントでは、9/19(土)・9/20(日)に開催される144th開成祭の参加団体「数学研究部」につ</description>
+    </item>
+    
+    <item>
+      <title>中1用 JJMO予選対策 代数1 (整数)</title>
+      <link>https://kaiseimathclub.github.io/post/2013-11-19/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com</author>
+      <guid>https://kaiseimathclub.github.io/post/2013-11-19/</guid>
+      <description>代数(1) 合同式、整数 合同式 整数 $a$, $b$, $m$ において $a$ を $m$ で割った余りと $b$ を $m$ で割った余りが等しい時（$a-b$ が $m$ で割れるとき）、$$a\equ</description>
+    </item>
+    
+    <item>
+      <title>数研問題プリントNo.1</title>
+      <link>https://kaiseimathclub.github.io/post/2009-06-15/</link>
+      <pubDate>Mon, 15 Jun 2009 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com</author>
+      <guid>https://kaiseimathclub.github.io/post/2009-06-15/</guid>
+      <description>1. 1周1kmのトラック上の1地点に、小宮君、中宮君、大宮君が集合し、同じ方向に向かって走り出した。彼らは、常に同じ速度で動くことができ、小宮</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+baseURL = "https://kaiseimathclub.github.io"
+publishDir = "docs"
+languageCode = 'ja-jp'
+hasCJKLanguage = true
+title = '開成学園数学研究部'
+theme = "beautifulhugo"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Build a beautiful and simple website in minutes"
+  mainSections = ["post","posts"]
+  logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = ""
+  website = "yourwebsite.com"
+  email = "youremail@domain.com"
+  github = "username"
+  twitter = "Kaisei_Suken"
+
+mainSections = ["post"]
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 1
+
+[[menu.main]]
+	name = "部誌"
+	url = "shibuncase/shibuncase_index"
+	weight = 1
+
+[[menu.main]]
+	name = "GP"
+	url = "gp/gp_index"
+	weight = 2
+
+[[menu.main]]
+	name = "中学入試予想"
+	url = "jhs/jhs_index"
+	weight = 2
+
+[[menu.main]]
+	name = "高校入試予想"
+	url = "hs/hs_index"
+	weight = 2
