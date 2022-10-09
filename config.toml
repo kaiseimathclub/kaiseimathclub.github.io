@@ -45,7 +45,7 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = ""
+  name = "開成学園数学研究部"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
   twitter = "Kaisei_Suken"
@@ -58,21 +58,47 @@ mainSections = ["post"]
     weight = 1
 
 [[menu.main]]
+	identifier = "fest"
+	name = "文化祭"
+	weight = 2
+
+[[menu.main]]
+	parent = "fest"
 	name = "部誌"
 	url = "shibuncase/shibuncase_index"
 	weight = 1
 
 [[menu.main]]
+	parent = "fest"
 	name = "GP"
-	url = "gp/gp_index"
+	url = "fest/gp/gp_index"
 	weight = 2
 
 [[menu.main]]
+	parent = "fest"
 	name = "中学入試予想"
-	url = "jhs/jhs_index"
+	url = "fest/jhs/jhs_index"
 	weight = 2
 
 [[menu.main]]
+	parent = "fest"
 	name = "高校入試予想"
-	url = "hs/hs_index"
+	url = "fest/hs/hs_index"
 	weight = 2
+
+[[menu.main]]
+	parent = "fest"
+	name = "数研部員と勝負！"
+	url = "fest/game/game_index"
+	weight = 3
+
+[[menu.main]]
+	parent = "fest"
+	name = "セコリス"
+	url = "fest/sekoris/sekoris"
+	weight = 4
+
+[[menu.main]]
+    name = "数研合宿"
+    url = "page/about/"
+    weight = 3

@@ -4,13 +4,14 @@ subtitle: Why you'd want to go on a date with me
 comments: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+MATHICとは？
+MATHICは筑駒の数学科学研究会の愛称です。
+その意味は、MATH（数学）＋MAGIC（魔法）＝MATHIC、つまり数学と科学の織りなす魔法のような世界ということ。
+普段の活動
+筑駒数研（通称MATHIC）は週二回、火曜日と木曜日に活動をしています。
+普段は各自が持ち寄った数学の問題・話題をみんなで考えたりしていますが、たまに部員による講義などもします。
+春季セミナー
+毎年４月の上旬に（最近は国立オリンピック記念青少年総合センターで）数研の春季セミナー旅行を行っています。主な内容は以下の通りです。
+部員による講義
+OBによる講義
+部員やOBとの交流
