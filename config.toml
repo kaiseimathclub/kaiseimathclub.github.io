@@ -15,10 +15,10 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "Kaisei Mathematics Club"
   mainSections = ["post","posts"]
-  logo = "img/avatar-icon.png" # Expecting square dimensions
-  favicon = "img/favicon.ico"
+  logo = "images/kaiseimathclub-black.png" # Expecting square dimensions
+  favicon = "images/kaiseimathclub-black.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
@@ -48,7 +48,6 @@ pygmentsCodefencesGuessSyntax = true
   name = ""
   website = "yourwebsite.com"
   email = "youremail@domain.com"
-  github = "username"
   twitter = "Kaisei_Suken"
 
 mainSections = ["post"]
