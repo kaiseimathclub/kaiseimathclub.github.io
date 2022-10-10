@@ -17,8 +17,8 @@ pygmentsCodefencesGuessSyntax = true
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Kaisei Mathematics Club"
   mainSections = ["post","posts"]
-  logo = "images/kaiseimathclub-black.png" # Expecting square dimensions
-  favicon = "images/kaiseimathclub-black.png"
+  logo = "images/kaiseimathclub.jpg" # Expecting square dimensions
+  favicon = "images/kaiseimathclub.jpg"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
@@ -54,7 +54,7 @@ mainSections = ["post"]
 
 [[menu.main]]
     name = "About"
-    url = "page/about/"
+    url = "page/about"
     weight = 1
 
 [[menu.main]]
@@ -100,5 +100,5 @@ mainSections = ["post"]
 
 [[menu.main]]
     name = "数研合宿"
-    url = "page/about/"
+    url = "camp/camp_index"
     weight = 3
