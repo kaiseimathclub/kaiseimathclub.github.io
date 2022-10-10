@@ -1,3 +1,3 @@
 開成学園数学研究部のホームページです。普段の活動内容や文化祭での配布物などに関する情報を掲載しています。このホームページは**開成学園非公認**であり、学園に関する一般のお問い合わせは[開成中学校・高等学校公式サイト](https://kaiseigakuen.jp)までお願い申し上げます。
 
-当サイトの内容のうち、アイコンについては[クリエイティブ・コモンズ 表示 - 非営利 - 改変禁止 4.0 国際 ライセンス](http://creativecommons.org/licenses/by-nc-nd/4.0/)![クリエイティブ・コモンズ・ライセンス](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)の下に、それ以外については特筆のない限り[クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス](http://creativecommons.org/licenses/by-nc-sa/4.0/)![クリエイティブ・コモンズ・ライセンス](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)の下に提供されています。
+このホームページのアイコン以外の内容は、別段の定めがある場合を除き[クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス](http://creativecommons.org/licenses/by-nc-sa/4.0/)![クリエイティブ・コモンズ・ライセンス](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)の下に提供されています。

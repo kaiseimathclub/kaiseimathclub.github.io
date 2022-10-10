@@ -4,8 +4,6 @@ title: "工作展示"
 
 ## セコリス
 
-セコリスとはhogehoge
-
 ![sekoris-1](../sekoris-1.jpeg)
 
 ![sekoris-2](../sekoris-2.jpeg)
