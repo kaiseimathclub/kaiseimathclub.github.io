@@ -1,3 +1,5 @@
 
 .DS_Store
 .hugo_build.lock
+resources/.DS_Store
+.DS_Store
