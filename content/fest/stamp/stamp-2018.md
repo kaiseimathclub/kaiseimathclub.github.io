@@ -10,10 +10,10 @@ lastmod: 2022-10-11
 
 $$\def\arraystretch{1.5}
 \begin{array}{cccc}
-&&\square&\sqaure \\\
+&&\square&\square \\\
 \times&&\square&2 \\\ \hline
 &1&\square&0 \\\
-8&\square&\square&& \\\ \hline
+8&\square&\square& \\\ \hline
 \square&\square&\square&\square
 \end{array}$$
 

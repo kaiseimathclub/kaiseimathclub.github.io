@@ -1,5 +1,5 @@
 ---
-title: 144th 開成祭
+title: 144th 開成祭 Twitter
 date: 2015-09-19
 lastmod: 2022-10-10
 author: 第39代数学研究部
