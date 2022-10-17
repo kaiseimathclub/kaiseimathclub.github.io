@@ -96,6 +96,12 @@ mainSections = ["post"]
 	weight = 4
 
 [[menu.main]]
+	parent = "fest"
+	name = "スタンプラリー用問題"
+	url = "fest/stamp/stamp_index"
+	weight = 4
+
+[[menu.main]]
     name = "数研合宿"
     url = "camp/camp_index"
     weight = 3
