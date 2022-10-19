@@ -2,7 +2,7 @@
 title: "工作展示"
 ---
 
-## セコリス
+# セコリス
 
 ![sekoris-1](../sekoris-1.jpeg)
 
