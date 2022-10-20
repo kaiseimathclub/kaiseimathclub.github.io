@@ -21,7 +21,6 @@ pygmentsCodefencesGuessSyntax = true
   favicon = "images/kaiseimathclub.jpg"
   dateFormat = "2006年1月2日"
   commit = false
-  rss = true
   wordCount = true
   useHLJS = true
   delayDisqus = true
@@ -44,7 +43,6 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   name = "開成学園数学研究部"
-  website = "yourwebsite.com"
   email = "kaiseimathclub@gmail.com"
   twitter = "Kaisei_Suken"
 
@@ -62,8 +60,8 @@ mainSections = ["post"]
 
 [[menu.main]]
 	parent = "fest"
-	name = "部誌"
-	url = "shibuncase/shibuncase_index"
+	name = "部誌 (shibuncase)"
+	url = "fest/shibuncase/shibuncase_index"
 	weight = 1
 
 [[menu.main]]
