@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 開成学園数学研究部</title>
-    <link>https://kaiseimathclub.github.io/categories/</link>
+    <link>https://kaiseimathclub.com/categories/</link>
     <description>Recent content in Categories on 開成学園数学研究部</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>kaiseimathclub@gmail.com (開成学園数学研究部)</managingEditor>
-    <webMaster>kaiseimathclub@gmail.com (開成学園数学研究部)</webMaster><atom:link href="https://kaiseimathclub.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>kaiseimathclub@gmail.com (開成学園数学研究部)</webMaster><atom:link href="https://kaiseimathclub.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
