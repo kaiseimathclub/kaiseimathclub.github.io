@@ -1,4 +1,4 @@
-baseURL = "https://kaiseimathclub.github.io"
+baseURL = "https://kaiseimathclub.com"
 publishDir = "docs"
 DefaultContentLanguage = "ja"
 hasCJKLanguage = true
