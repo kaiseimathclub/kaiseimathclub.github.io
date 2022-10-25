@@ -63,7 +63,6 @@ a:focus {
 }
 blockquote {
   color: #808080;
-  font-style: italic;
 }
 blockquote p:first-child {
   margin-top: 0;
@@ -444,7 +443,6 @@ footer .theme-by {
 .page-meta {
   color: #808080;
   font-size: 18px;
-  font-style: italic;
   margin: 0 0 10px;
 }
 .page-meta {

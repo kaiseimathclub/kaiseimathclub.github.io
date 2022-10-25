@@ -5,18 +5,15 @@
     <link>https://kaiseimathclub.github.io/page/</link>
     <description>Recent content in Pages on 開成学園数学研究部</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <managingEditor>youremail@domain.com</managingEditor>
-    <webMaster>youremail@domain.com</webMaster><atom:link href="https://kaiseimathclub.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>kaiseimathclub@gmail.com (開成学園数学研究部)</managingEditor>
+    <webMaster>kaiseimathclub@gmail.com (開成学園数学研究部)</webMaster><atom:link href="https://kaiseimathclub.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me</title>
+      <title>開成数研とは？</title>
       <link>https://kaiseimathclub.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com</author>
+      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.github.io/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
-I rock a great mustache I&amp;rsquo;m extremely loyal to my family What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+      <description>数学研究部とは？ 開成学園数学研究部（開成数研）は、1975 年に開成中学校・高等学校の学芸部の一つとして発足し、数学が好きな部員たちが日々の活</description>
     </item>
     
   </channel>
