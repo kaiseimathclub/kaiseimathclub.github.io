@@ -33,6 +33,8 @@ title: 開成数研とは？
 
 * 数研模試
 * OB 講義
+* [七則]({{< ref "/page/shichisoku.md" >}})
+* [SET]({{< ref "/page/set.md" >}})
 
 ## 過去の実績
 
