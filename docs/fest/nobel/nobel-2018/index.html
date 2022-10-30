@@ -59,7 +59,7 @@
   "headline": "開成ノーベル学会 2018：ガロワ理論への入門とその展望",
   "description" : "スライド 戻る 進む \u0026nbsp; \u0026nbsp; \/ ページ 原稿 はじめに エヴァリスト・ガロワ（Évariste Galois, 1811–1832）はフランスの数学者・革命家です。ガロワは",
   "inLanguage" : "ja",
-  "wordCount":  5564 ,
+  "wordCount":  5569 ,
   "datePublished" : "2018-09-22T00:00:00",
   "dateModified" : "2018-09-22T00:00:00",
   "image" : "https:\/\/kaiseimathclub.com\/img\/kaiseimathclub.png",
@@ -483,7 +483,7 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
 
 <h1 id="原稿">原稿</h1>
 <h2 id="はじめに">はじめに</h2>
-<p><strong>エヴァリスト・ガロワ</strong>（Évariste Galois, 1811–1832）はフランスの数学者・革命家です。ガロワは17歳の若さで素数次方程式を代数的に解く方法を発見し論文にまとめたものの、フランス学士院に提出する際にコーシーが紛失してしまい、さらに再提出する際にはフーリエが急死したためまたもや紛失されてしまいました。このころ保守的な勢力が大半を占めていた教会の司祭らが、自由主義的な思想だったガロワの父ニコラに目をつけ誹謗中傷の限りを尽くしたことで自殺してしまいます。こうして絶望の淵に立ったガロワは反政府主義活動に耽るようになり投獄されてしまいます。ちょうどそのときに 2 回もの論文の紛失に同情したポアソンが再提出を求めますが説明不十分だとして論文の添削をするように言われてしまいます。脱獄した後には女性との色恋沙汰によって決闘を申し込まれることになります。決闘の前日、同じ反政府主義者のシュヴァリエに次のような手紙と数学的なメモを書き残しました。</p>
+<p><strong>エヴァリスト・ガロワ</strong>（Évariste Galois, 1811–1832）はフランスの数学者・革命家です。ガロワは 17 歳の若さで素数次方程式を代数的に解く方法を発見し論文にまとめたものの、フランス学士院に提出する際にコーシーが紛失してしまい、さらに再提出する際にはフーリエが急死したためまたもや紛失されてしまいました。このころ保守的な勢力が大半を占めていた教会の司祭らが、自由主義的な思想だったガロワの父ニコラに目をつけ誹謗中傷の限りを尽くしたことで自殺してしまいます。こうして絶望の淵に立ったガロワは反政府主義活動に耽るようになり投獄されてしまいます。ちょうどそのときに 2 回もの論文の紛失に同情したポアソンが再提出を求めますが説明不十分だとして論文の添削をするように言われてしまいます。脱獄した後には女性との色恋沙汰によって決闘を申し込まれることになります。決闘の前日、同じ反政府主義者のシュヴァリエに次のような手紙と数学的なメモを書き残しました。</p>
 <blockquote>
 <p>Tu sais, mon cher Auguste, que ces sujets ne sont pas les seuls que j&rsquo;ai explorés&hellip;&hellip;Mais je n&rsquo;ai pas le temps, et mes idées ne sont pas encore bien développées sur ce terrain, qui est immense.<br>
 親愛なるオギュスト君。僕の研究したものがこのメモだけに留まらないことを君ならばよく知ってくれているだろう。&hellip;&hellip;<strong>だが僕にはもう時間がない</strong>。それに僕の発想はまだこの限りなき（数学という）領域で通用するほど実り多きものにはなっていない。</p>
@@ -519,9 +519,15 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
 <li>すべての $a\in G$ に対し, $b\in G$ が存在し, $a\circ b=b\circ a=e$ となる. このとき $b$ は $a$ の<strong>逆元</strong>と呼ばれ, $a^{-1}$ と書く.</li>
 </ol>
 </div>
-<p>実はラグランジュやガウス、ルフィニ、アーベルなどのガロワ以前の数学者がすでに「<strong>方程式と対称性は密接な関係がある</strong>」ことに気づいており、特にアーベルはうっすらとですが群のアイデアを発明していました。このことを念頭におきつつ、2次方程式という簡単なトピックを基に少し方程式と対称性の関係を探っていくことにしましょう。</p>
+<p>実はラグランジュやガウス、ルフィニ、アーベルなどのガロワ以前の数学者がすでに「<strong>方程式と対称性は密接な関係がある</strong>」ことに気づいており、特にアーベルはうっすらとですが群のアイデアを発明していました。このことを念頭におきつつ、$2$ 次方程式という簡単なトピックを基に少し方程式と対称性の関係を探っていくことにしましょう。</p>
 <h3 id="2-次方程式">$2$ 次方程式</h3>
-<p>$x^2+bx+c=0$ の解を $\alpha$, $\beta$ とおくと、係数 $b$, $c$ はともに $\alpha$, $\beta$ から定まり、また $$x^2+bx+c=(x-\alpha)(x-\beta)=x-(\alpha+\beta)+\alpha\beta=0$$ が成り立つことから係数部分を比較して
+<p>$x^2+bx+c=0$ の解を $\alpha$, $\beta$ とおくと、係数 $b$, $c$ はともに $\alpha$, $\beta$ から定まり、また
+\begin{align}
+x^2+bx+c&amp;=(x-\alpha)(x-\beta)\notag\\
+&amp;=x-(\alpha+\beta)+\alpha\beta\notag\\
+&amp;=0\notag
+\end{align}
+が成り立つことから係数部分を比較して
 $$\left\lbrace\begin{aligned}
 b(\alpha,\beta)&amp;=-(\alpha+\beta)\\
 c(\alpha,\beta)&amp;=\alpha\beta
@@ -568,7 +574,7 @@ e(\alpha\ \beta\ \gamma)&amp;=(\alpha\ \beta\ \gamma)\notag\\
 </div>
 <p>ここまで書いたものの、$3$ 次方程式の解き方は非常に煩雑なだけなので省略することにします。もし興味があれば適宜文献を参照してください。</p>
 <h3 id="ガロア理論の基本定理">ガロア理論の基本定理</h3>
-<p>なぜ $3$ 次方程式の場合を省略したかというと、“キモチ” を説明すれば十分だからです。まず我々が行いたいのはある数 $\theta$ が $+$, $-$, $\times$, $\div$, $\sqrt{\quad}$ で書けるかということです。ここで $\mathbb{Q}$ は有理数体<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>で、それに「ルート」という対称性を崩す道具を持ってくるとき $\mathbb{Q}(\sqrt[\bullet]{\quad})$ と書くことにします。すると、方程式の解は「全く動かさない」という置き換えによって対称でした。また係数の四則演算でかける数というのは、たとえば $3$ 次方程式の場合は $3$ 次の対称群 $\mathfrak{S} _ 3$ に対して対称でした。したがって、「対称性を崩していくときに、それに対して対称な置き換え（群）を考えてやればよいのではないか」と考えることができます。それを適宜考えてやったのが次の系列です。
+<p>なぜ $3$ 次方程式の場合を省略したかというと、“キモチ” を説明すれば十分だからです。まず我々が行いたいのはある数 $\theta$ が $+$, $-$, $\times$, $\div$, $\sqrt{\quad}$ で書けるかということです。ここで $\mathbb{Q}$ は有理数体<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>で、それに「ルート」という対称性を崩す道具を持ってくるとき $\mathbb{Q}({}^{\bullet}\sqrt{\quad})$ と書くことにします。すると、方程式の解は「全く動かさない」という置き換えによって対称でした。また係数の四則演算でかける数というのは、たとえば $3$ 次方程式の場合は $3$ 次の対称群 $\mathfrak{S} _ 3$ に対して対称でした。したがって、「対称性を崩していくときに、それに対して対称な置き換え（群）を考えてやればよいのではないか」と考えることができます。それを適宜考えてやったのが次の系列です。
 $$\begin{matrix}
 \mathbb{Q}(\theta)&amp;\rightarrow&amp;{e}\\
 \uparrow&amp;&amp;\downarrow\\
@@ -643,7 +649,7 @@ $$\begin{matrix}
         <ul class="pager blog-pager">
           
             <li class="previous">
-              <a href="https://kaiseimathclub.com/fest/stamp/stamp-2017/" data-toggle="tooltip" data-placement="top" title="2017 開成数研スタンプラリー用問題">&larr; 前ページ</a>
+              <a href="https://kaiseimathclub.com/fest/game/game-2018-lecture/" data-toggle="tooltip" data-placement="top" title="組み合わせゲーム理論入門">&larr; 前ページ</a>
             </li>
           
           
