@@ -45,6 +45,15 @@
     </item>
     
     <item>
+      <title>位相空間論 速習コース：素数の無限性や代数学の基本定理など</title>
+      <link>https://kaiseimathclub.com/post/2020-01-27/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
+      <guid>https://kaiseimathclub.com/post/2020-01-27/</guid>
+      <description>集合論 高校までの集合論は既知としたいが, いくつか復習をしておこう. $A \subset B \iff \forall x \in A, x \in B$. $f \colon A \to A ; a \mapsto a$ を恒等写像といい, $\operatorname{id}_A$, $\bm{1}_A$ などと書く.</description>
+    </item>
+    
+    <item>
       <title>2019 SUKEN GRAND PRIX</title>
       <link>https://kaiseimathclub.com/fest/gp/gp-2019/</link>
       <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
@@ -123,6 +132,15 @@
       <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/game/game-2018-lecture/</guid>
       <description>開成高等学校 1 年 (4450) 米田 寛峻 (square1001) 1.「数研部員と勝負！」とは？ 開成の文化祭では, 毎年「数研部員と勝負!」というゲームをやっている. 例年, ゲームの</description>
+    </item>
+    
+    <item>
+      <title>松野陽一郎『なるほど！とわかる線形代数』第一回</title>
+      <link>https://kaiseimathclub.com/post/2018-01-13/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
+      <guid>https://kaiseimathclub.com/post/2018-01-13/</guid>
+      <description>注意 1（線形代数）間違っても「線の形を調べる分野だ！」と思わないように。 注意 2（空間）空間とは、構造をもった集合である。 数学で空間というと、</description>
     </item>
     
     <item>
