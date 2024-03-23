@@ -5,17 +5,15 @@
     <link>https://kaiseimathclub.com/tags/%E8%AC%9B%E7%BE%A9%E8%B3%87%E6%96%99/</link>
     <description>Recent content in 講義資料 on 開成学園数学研究部</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>kaiseimathclub@gmail.com (開成学園数学研究部)</managingEditor>
-    <webMaster>kaiseimathclub@gmail.com (開成学園数学研究部)</webMaster>
-    <lastBuildDate>Tue, 19 Nov 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiseimathclub.com/tags/%E8%AC%9B%E7%BE%A9%E8%B3%87%E6%96%99/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kaiseimathclub.com/tags/%E8%AC%9B%E7%BE%A9%E8%B3%87%E6%96%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>中1用 JJMO予選対策 代数1 (整数)</title>
       <link>https://kaiseimathclub.com/post/2013-11-19/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/post/2013-11-19/</guid>
       <description>代数(1) 合同式、整数 合同式 整数 $a$, $b$, $m$ において $a$ を $m$ で割った余りと $b$ を $m$ で割った余りが等しい時（$a-b$ が $m$ で割れるとき）、$$a\equ</description>
     </item>
-    
   </channel>
 </rss>

@@ -5,350 +5,281 @@
     <link>https://kaiseimathclub.com/</link>
     <description>Recent content on 開成学園数学研究部</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>kaiseimathclub@gmail.com (開成学園数学研究部)</managingEditor>
-    <webMaster>kaiseimathclub@gmail.com (開成学園数学研究部)</webMaster>
-    <lastBuildDate>Sun, 18 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiseimathclub.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kaiseimathclub.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022 SUKEN GRAND PRIX</title>
       <link>https://kaiseimathclub.com/fest/gp/gp-2022/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/gp/gp-2022/</guid>
       <description>問題 2022 年 9 月 17・18 日 時間無制限 12 題 (注意事項) 一問でも解けたら採点係のところまで持ってきてください. 採点は何度でも可能です. 6 からは証明</description>
     </item>
-    
     <item>
       <title>2022年度文化祭 高校入試予想問題</title>
       <link>https://kaiseimathclub.com/fest/hs/hs-2022/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/hs/hs-2022/</guid>
       <description>H1 I1 数学 （問題）（目安：60 分） （注意）答えの根号の中はできるだけ簡単にし、分母に根号がない形で表すこと。円周率は $\pi$ を用いること。 1 放物線 $y=x^2$</description>
     </item>
-    
     <item>
       <title>数研部員と勝負！ 2022</title>
       <link>https://kaiseimathclub.com/fest/game/game-2022/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/game/game-2022/</guid>
       <description>問 1 次のような逆正三角形の格子があります。先手と後手は交互に、一番上の段の逆正三角形に $1$ ~ $6$ の数字を 1 つずつ, 同じものがないように書きます。</description>
     </item>
-    
     <item>
       <title>「大きな数の計算」講義ノート</title>
       <link>https://kaiseimathclub.com/camp/camp-2022-yoneda/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/camp/camp-2022-yoneda/</guid>
       <description>題名：大きな数の計算 講師：数学研究部 OB 米田 寛峻1 日時：2022 年 8 月 30 日 1 はじめに $179+443=622$, $243-234=9$, $28\times76=2128$, $2280\div24=95$, $\dots$ このような計算は，数学の問題を解くときだけでなく</description>
     </item>
-    
     <item>
       <title>位相空間論 速習コース：素数の無限性や代数学の基本定理など</title>
       <link>https://kaiseimathclub.com/post/2020-01-27/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/post/2020-01-27/</guid>
       <description>集合論 高校までの集合論は既知としたいが, いくつか復習をしておこう. $A \subset B \iff \forall x \in A, x \in B$. $f \colon A \to A ; a \mapsto a$ を恒等写像といい, $\operatorname{id}_A$, $\bm{1}_A$ などと書く.</description>
     </item>
-    
     <item>
       <title>2019 SUKEN GRAND PRIX</title>
       <link>https://kaiseimathclub.com/fest/gp/gp-2019/</link>
       <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/gp/gp-2019/</guid>
       <description>問題 2019 年 9 月 21・22 日 時間無制限 14 題 一問でも解けたら採点係のところまで持ってきてください. 採点は何度でも可能です. 第 7 問からは証明問題です</description>
     </item>
-    
     <item>
       <title>開成ノーベル学会 2019：「確率」とは何か？</title>
       <link>https://kaiseimathclub.com/fest/nobel/nobel-2019/</link>
       <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/nobel/nobel-2019/</guid>
       <description>概要 「確率」は、日常生活ではたとえば「降水確率」や「ガチャ」などを通じて、数学を勉強したことがなくとも誰もが聞いたこともあるし馴染みもある言</description>
     </item>
-    
     <item>
       <title>数研部員と勝負！ 2019 講習</title>
       <link>https://kaiseimathclub.com/fest/game/game-2019-lecture/</link>
       <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/game/game-2019-lecture/</guid>
       <description>戻る 進む &amp;nbsp; &amp;nbsp; / ページ</description>
     </item>
-    
     <item>
       <title>2018 SUKEN GRAND PRIX</title>
       <link>https://kaiseimathclub.com/fest/gp/gp-2018/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/gp/gp-2018/</guid>
       <description>問題 2018 年 9 月 22, 23 日 時間無制限 12 題 5 番以降は証明問題です. 答を出す問題であっても必ず証明をつけてください. 一問でも解けたら採点係のところまで持</description>
     </item>
-    
     <item>
       <title>2018 開成数研スタンプラリー用問題</title>
       <link>https://kaiseimathclub.com/fest/stamp/stamp-2018/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/stamp/stamp-2018/</guid>
       <description>このうち 1 問以上を解いて、採点コーナーに持っていくと文化祭パンフレットのスタンプがもらえます。 1 $$\def\arraystretch{1.5} \begin{array}{cccc} &amp;amp;&amp;amp;\square&amp;amp;\square \\ \times&amp;amp;&amp;amp;\square&amp;amp;2 \\ \hline &amp;amp;1&amp;amp;\square&amp;amp;0 \\ 8&amp;amp;\square&amp;amp;\square&amp;amp; \\ \hline \square&amp;amp;\square&amp;amp;\square&amp;amp;\square \end{array}$$ 2 $2$ $4$ $7$ $8$ $9$ で $+$</description>
     </item>
-    
     <item>
       <title>2018年度開成文化祭 中学入試予想問題</title>
       <link>https://kaiseimathclub.com/fest/jhs/jhs-2018/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/jhs/jhs-2018/</guid>
       <description>B1 算数 （問題）（60分） ◎答えが分数になるときは、できるだけ約分して答えなさい。円周率が必要なときは $3.14$ を用いなさい。 ◎必要ならば, 「$\te</description>
     </item>
-    
     <item>
       <title>2018年文化祭：数研部員と勝負！</title>
       <link>https://kaiseimathclub.com/fest/game/game-2018/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/game/game-2018/</guid>
       <description>ルール説明 「数研部員と勝負!」は, 毎年数学研究部が文化祭に出しているゲームです. ゲームが 3 個あり,それぞれのゲームで 2 連勝したらこのゲームに</description>
     </item>
-    
     <item>
       <title>開成ノーベル学会 2018：ガロワ理論への入門とその展望</title>
       <link>https://kaiseimathclub.com/fest/nobel/nobel-2018/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/nobel/nobel-2018/</guid>
       <description>スライド 戻る 進む &amp;nbsp; &amp;nbsp; / ページ 原稿 はじめに エヴァリスト・ガロワ（Évariste Galois, 1811–1832）はフランスの数学者・革命家です。ガロワは</description>
     </item>
-    
     <item>
       <title>組み合わせゲーム理論入門</title>
       <link>https://kaiseimathclub.com/fest/game/game-2018-lecture/</link>
       <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/game/game-2018-lecture/</guid>
       <description>開成高等学校 1 年 (4450) 米田 寛峻 (square1001) 1.「数研部員と勝負！」とは？ 開成の文化祭では, 毎年「数研部員と勝負!」というゲームをやっている. 例年, ゲームの</description>
     </item>
-    
     <item>
       <title>松野陽一郎『なるほど！とわかる線形代数』第一回</title>
       <link>https://kaiseimathclub.com/post/2018-01-13/</link>
       <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/post/2018-01-13/</guid>
       <description>注意 1（線形代数）間違っても「線の形を調べる分野だ！」と思わないように。 注意 2（空間）空間とは、構造をもった集合である。 数学で空間というと、</description>
     </item>
-    
     <item>
       <title>2017 開成数研スタンプラリー用問題</title>
       <link>https://kaiseimathclub.com/fest/stamp/stamp-2017/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/stamp/stamp-2017/</guid>
       <description>このうち 1 問以上を解いて、採点コーナーに持っていくと文化祭パンフレットのスタンプがもらえます。 10 パズル 1 【初級】$\square$ に $+$, $-$ のど</description>
     </item>
-    
     <item>
       <title>2017年開成文化祭 数学研究部 中学入試予想問題</title>
       <link>https://kaiseimathclub.com/fest/jhs/jhs-2017/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/jhs/jhs-2017/</guid>
       <description>2017年開成文化祭 中学入試予想A問題 B1 算数 （A 問題）（目安：60 分） ◎候補問題のうち本物の入試に出るようなものを集めた問題セットとなってお</description>
     </item>
-    
     <item>
       <title>SUKEN GRAND PRIX 2017</title>
       <link>https://kaiseimathclub.com/fest/gp/gp-2017/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/gp/gp-2017/</guid>
       <description>問題 1 次の虫食い算を解け。ただし、2 つある $\triangle$ には同じ数字が入る。 $$\def\arraystretch{1.5} \begin{array}{ccccc} &amp;amp;&amp;amp; \square &amp;amp; 2 &amp;amp; \square \\ &amp;amp; \times &amp;amp;&amp;amp; \square &amp;amp; \triangle \\ \hline &amp;amp; \square &amp;amp; 0 &amp;amp; \square &amp;amp; \square \\ \square &amp;amp; 1 &amp;amp; \square &amp;amp; \square &amp;amp; \\ \hline \triangle &amp;amp;</description>
     </item>
-    
     <item>
       <title>数学研究部 冬休み特別号</title>
       <link>https://kaiseimathclub.com/post/2016-12-24/</link>
       <pubDate>Sat, 24 Dec 2016 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/post/2016-12-24/</guid>
       <description>クリスマス問題 1 ☆☆ $a+b+c=2016$ ($a,b,c&amp;gt;0$) のとき $(a+1)(b+2)(c+3)$ の最大値を求めよ。 2 ☆☆☆ $a$, $b$, $c$, $d$, $e$, $f$ が全て非負整数で $a+b+c+d+e+f=S\ (\Z_+\ni S)$ （$\Z_+$：非負整数） $\lvert a+b+c-d-e\rvert$, $\lvert a+b+c-f\rvert$, $\lvert d+e-f\rvert$, $\lvert a-b\rvert$, $\lvert b-c\rvert$, $\lvert</description>
     </item>
-    
     <item>
       <title>12/1の解答</title>
       <link>https://kaiseimathclub.com/post/2016-12-06/</link>
       <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/post/2016-12-06/</guid>
       <description>今年最後の活動の問題の解答です。解答をあげるのが遅くなってしまいました。 ① (1) $8$ (2) $89$ ② $\dfrac{k}{4}π^2$ ① (2) わずかにずれている</description>
     </item>
-    
+    <item>
+      <title>2016 SUKEN GRAND PRIX</title>
+      <link>https://kaiseimathclub.com/fest/gp/gp-2016/</link>
+      <pubDate>Sat, 24 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://kaiseimathclub.com/fest/gp/gp-2016/</guid>
+      <description> 戻る 進む &amp;nbsp; &amp;nbsp; / ページ </description>
+    </item>
     <item>
       <title>144th 開成祭 Twitter</title>
       <link>https://kaiseimathclub.com/post/fest-144/</link>
       <pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/post/fest-144/</guid>
       <description>2015/08/28 18:00 Twitter、始めました！！！ 当アカウントでは、9/19(土)・9/20(日)に開催される144th開成祭の参加団体「数学研究部」につ</description>
     </item>
-    
     <item>
       <title>2015年度数研模試</title>
       <link>https://kaiseimathclub.com/camp/camp-2015/</link>
       <pubDate>Sun, 30 Aug 2015 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/camp/camp-2015/</guid>
       <description>Day 1 1 (1) $10$ 人を $3$ 人、$3$ 人、$4$ 人の 3 つの班に分ける。分け方は何通りあるか。（答えのみでよい） (2) 正三角形 $ABC$ の内部に点 $P$ があり、$AP=3</description>
     </item>
-    
     <item>
       <title>143rd 開成祭 人数データ</title>
       <link>https://kaiseimathclub.com/post/fest-143/</link>
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/post/fest-143/</guid>
-      <description></description>
+      <description>一日目 二日目</description>
     </item>
-    
     <item>
       <title>中1用 JJMO予選対策 代数1 (整数)</title>
       <link>https://kaiseimathclub.com/post/2013-11-19/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/post/2013-11-19/</guid>
       <description>代数(1) 合同式、整数 合同式 整数 $a$, $b$, $m$ において $a$ を $m$ で割った余りと $b$ を $m$ で割った余りが等しい時（$a-b$ が $m$ で割れるとき）、$$a\equ</description>
     </item>
-    
     <item>
       <title>中学入試予想問題 2012</title>
       <link>https://kaiseimathclub.com/fest/jhs/jhs-2012/</link>
       <pubDate>Sat, 22 Sep 2012 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/jhs/jhs-2012/</guid>
       <description>諸注意 問題が一問でもいいので解けたら GP 係のところへ行って答え合わせをしてもらってください。 解答は出口付近にあります。解答をもらった後にそれを</description>
     </item>
-    
     <item>
       <title>数研問題プリントNo.1</title>
       <link>https://kaiseimathclub.com/post/2009-06-15/</link>
       <pubDate>Mon, 15 Jun 2009 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/post/2009-06-15/</guid>
       <description>1 1 周 $1\text{ km}$ のトラック上の1地点に、小宮君、中宮君、大宮君が集合し、同じ方向に向かって走り出した。彼らは、常に同じ速度で動くことができ、小宮君</description>
     </item>
-    
     <item>
       <title>SET</title>
       <link>https://kaiseimathclub.com/page/set/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/page/set/</guid>
       <description>ルール 数（1、2、3）、形（マル、ヒシ、ニョロ）、色（赤、緑、紫）、塗り方（ヌリ、シマ、ナシ）の 4 要素からなる相異なるカードが $3^4=81$ 枚ある。山か</description>
     </item>
-    
     <item>
       <title>SUKEN GRAND PRIX</title>
       <link>https://kaiseimathclub.com/fest/gp/gp_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/gp/gp_index/</guid>
-      <description> 2022 2019 2018 2017 </description>
+      <description> 2022 2019 2018 2017 2016 </description>
     </item>
-    
     <item>
       <title>スタンプラリー用問題</title>
       <link>https://kaiseimathclub.com/fest/stamp/stamp_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/stamp/stamp_index/</guid>
       <description>2018 2017</description>
     </item>
-    
     <item>
       <title>開成ノーベル学会</title>
       <link>https://kaiseimathclub.com/fest/nobel/nobel_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/nobel/nobel_index/</guid>
       <description>2019 2018</description>
     </item>
-    
     <item>
       <title>開成数研とは？</title>
       <link>https://kaiseimathclub.com/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/page/about/</guid>
       <description>数学研究部とは？ 開成学園数学研究部（開成数研）は、1975 年に開成中学校・高等学校の学芸部の一つとして発足し、数学が好きな部員たちが日々の活</description>
     </item>
-    
     <item>
       <title>工作展示</title>
       <link>https://kaiseimathclub.com/fest/crafts/crafts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/crafts/crafts/</guid>
       <description>セコリス</description>
     </item>
-    
     <item>
       <title>高校入試予想問題</title>
       <link>https://kaiseimathclub.com/fest/hs/hs_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/hs/hs_index/</guid>
       <description>2022</description>
     </item>
-    
     <item>
       <title>七則</title>
       <link>https://kaiseimathclub.com/page/shichisoku/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/page/shichisoku/</guid>
       <description>ルール トランプを用意する。 Target を決める：基本的に 3 桁（平和にやるなら 2 桁、異常な界隈では 4 桁以上）。決め方は自由で、一般的に山からめくって順に</description>
     </item>
-    
     <item>
       <title>数研合宿</title>
       <link>https://kaiseimathclub.com/camp/camp_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/camp/camp_index/</guid>
       <description>数研模試 2015 OB 講義 2022 射影幾何から見る数学オリンピックの幾何 (Moving Points 入門) 言語学オリンピックへの誘い：ルール・遊び方・勉強法 大きな数の計算 組み合わせ</description>
     </item>
-    
     <item>
       <title>数研部員と勝負！</title>
       <link>https://kaiseimathclub.com/fest/game/game_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/game/game_index/</guid>
       <description>2022 2019 講習 2018 2018 講習</description>
     </item>
-    
     <item>
       <title>中学入試予想問題</title>
       <link>https://kaiseimathclub.com/fest/jhs/jhs_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/jhs/jhs_index/</guid>
       <description>2018 2017 2012</description>
     </item>
-    
     <item>
       <title>部誌 (shibuncase)</title>
       <link>https://kaiseimathclub.com/fest/shibuncase/shibuncase_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/fest/shibuncase/shibuncase_index/</guid>
       <description>準備中</description>
     </item>
-    
   </channel>
 </rss>

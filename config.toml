@@ -42,9 +42,9 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "開成学園数学研究部"
-  email = "kaiseimathclub@gmail.com"
-  twitter = "Kaisei_Suken"
+  params.author.name = "開成学園数学研究部"
+  params.author.email = "kaiseimathclub@gmail.com"
+  params.author.twitter = "Kaisei_Suken"
 
 mainSections = ["post"]
 

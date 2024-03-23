@@ -5,34 +5,28 @@
     <link>https://kaiseimathclub.com/page/</link>
     <description>Recent content in Pages on 開成学園数学研究部</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>kaiseimathclub@gmail.com (開成学園数学研究部)</managingEditor>
-    <webMaster>kaiseimathclub@gmail.com (開成学園数学研究部)</webMaster><atom:link href="https://kaiseimathclub.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <atom:link href="https://kaiseimathclub.com/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SET</title>
       <link>https://kaiseimathclub.com/page/set/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/page/set/</guid>
       <description>ルール 数（1、2、3）、形（マル、ヒシ、ニョロ）、色（赤、緑、紫）、塗り方（ヌリ、シマ、ナシ）の 4 要素からなる相異なるカードが $3^4=81$ 枚ある。山か</description>
     </item>
-    
     <item>
       <title>開成数研とは？</title>
       <link>https://kaiseimathclub.com/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/page/about/</guid>
       <description>数学研究部とは？ 開成学園数学研究部（開成数研）は、1975 年に開成中学校・高等学校の学芸部の一つとして発足し、数学が好きな部員たちが日々の活</description>
     </item>
-    
     <item>
       <title>七則</title>
       <link>https://kaiseimathclub.com/page/shichisoku/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kaiseimathclub@gmail.com (開成学園数学研究部)</author>
       <guid>https://kaiseimathclub.com/page/shichisoku/</guid>
       <description>ルール トランプを用意する。 Target を決める：基本的に 3 桁（平和にやるなら 2 桁、異常な界隈では 4 桁以上）。決め方は自由で、一般的に山からめくって順に</description>
     </item>
-    
   </channel>
 </rss>
